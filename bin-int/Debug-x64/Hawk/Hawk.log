@@ -1,3 +1,4 @@
-﻿  Test.cpp
-     Creating library D:\dev\Hawk\bin\Debug-x64\Hawk\Hawk.lib and object D:\dev\Hawk\bin\Debug-x64\Hawk\Hawk.exp
-  Hawk.vcxproj -> D:\dev\Hawk\bin\Debug-x64\Hawk\Hawk.dll
+﻿  Application.cpp
+  LINK : D:\dev\Hazel\bin\Debug-x64\Hawk\Hawk.dll not found or not built by the last incremental link; performing full link
+     Creating library D:\dev\Hazel\bin\Debug-x64\Hawk\Hawk.lib and object D:\dev\Hazel\bin\Debug-x64\Hawk\Hawk.exp
+  Hawk.vcxproj -> D:\dev\Hazel\bin\Debug-x64\Hawk\Hawk.dll

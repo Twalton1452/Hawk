@@ -1,9 +1,9 @@
 
-namespace Hazel {
+namespace Hawk {
 	__declspec(dllimport) void Print();
 }
 
 
 void main() {
-	Hazel::Print();
+	Hawk::Print();
 }

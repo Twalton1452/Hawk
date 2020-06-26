@@ -1,6 +1,6 @@
 #pragma once
 
-namespace Hazel {
+namespace Hawk {
 
 	__declspec(dllexport) void Print();
 }

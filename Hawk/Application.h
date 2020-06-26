@@ -1,6 +1,6 @@
 #pragma once
 
-namespace Hazel {
+namespace Hawk {
 	class __declspec(dllexport) Application
 	{
 	public:

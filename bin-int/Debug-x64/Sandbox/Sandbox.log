@@ -1,3 +1,5 @@
 ﻿  Application.cpp
-d:\dev\hawk\sandbox\src\application.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Sandbox.vcxproj -> D:\dev\Hawk\bin\Debug-x64\Sandbox\Sandbox.exe
+d:\dev\hazel\sandbox\src\application.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : D:\dev\Hazel\bin\Debug-x64\Sandbox\Sandbox.exe not found or not built by the last incremental link; performing full link
+Application.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) void __cdecl Hawk::Print(void)" (__imp_?Print@Hawk@@YAXXZ) referenced in function main
+D:\dev\Hazel\bin\Debug-x64\Sandbox\Sandbox.exe : fatal error LNK1120: 1 unresolved externals

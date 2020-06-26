@@ -15,7 +15,7 @@
     <ProjectGuid>{C8F64297-3CE4-4656-A1FF-D960FEA848A9}</ProjectGuid>
     <RootNamespace>Hawk</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Hazel</ProjectName>
+    <ProjectName>Hawk</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
